@@ -21,5 +21,5 @@ public class c2_ReverseString {
 
 
 }
-      //
-
+      // if your class red that means yo did not add to git;
+//if it is
